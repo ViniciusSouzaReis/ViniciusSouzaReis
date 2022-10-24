@@ -1,3 +1,3 @@
-# Olá, seja bem-vindo(a) 
+# Hello, Welcome! :wave:
 
-Eu sou Vinicius Reis, atualmente estudante de desenvolvimento Fullstack na Trybe.
+:us: I'm Vinicius Reis. I have bachelor degree on Physical Education but now i'm studying software development at Trybe.
