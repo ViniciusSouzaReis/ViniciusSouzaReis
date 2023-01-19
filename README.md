@@ -1,10 +1,12 @@
 # Hello, Welcome! :wave:
 
-:us: I'm Vinicius Reis. I have bachelor degree on Physical Education but now i'm studying software development at Trybe.
 
-:brazil: Eu sou Vinicius Reis. Sou bacharel em Educação Física mas atualmente sou estudante de desenvolvimento fullstack na Trybe.
+Hi, my name is <strong>Vinicius Reis</strong>. I have bachelor degree on Physical Education but now i'm studying <strong>software development</stong> at Trybe.
+
+I am always willing to learn new tools and languages, and to get to know in more depth the ones I already learned.
 
 
+<h2 dir='auto'></h2>
 
 
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MYSQL'> <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' alt='DOCKER'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'>
@@ -17,9 +19,10 @@
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='NODEJS'>
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username={ViniciusSouzaReis}&theme={dark}' alt='VERCEL'>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h2 dir='auto'></h2>
 
 
 <a target="_blank" href="https://www.linkedin.com/in/vinicius-souza-reis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a>
