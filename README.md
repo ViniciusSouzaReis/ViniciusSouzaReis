@@ -22,7 +22,7 @@
 
 
 
-<a href="_blank" href="https://www.linkedin.com/in/vinicius-souza-reis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
+<a target="_blank" href="https://www.linkedin.com/in/vinicius-souza-reis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   
   
 <img src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg' alt='SNAKE'>
