@@ -1,7 +1,7 @@
 # Hello, Welcome! :wave:
 
 
-Hi, my name is <strong>Vinicius Reis</strong>. I have bachelor degree on Physical Education but now i'm studying <strong>software development</stong> at Trybe.
+Hi, my name is <strong>Vinicius Reis</strong>. I have bachelor degree on Physical Education but now i'm studying <strong>software development</stong> at <a target='_blank' href='https://www.betrybe.com'>Trybe</a>.
 
 I am always willing to learn new tools and languages, and to get to know in more depth the ones I already learned.
 
